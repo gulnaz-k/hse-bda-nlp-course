@@ -18,5 +18,5 @@ https://colab.research.google.com/github/AlbinaBurlova/hse-bda-nlp-course/blob/m
 * [spaCy](https://spacy.io/) - Industrial-strength NLP 
 * [scikit-learn](https://scikit-learn.org/) - Инструменты для ML (CountVectorizer, TfidfVectorizer)
 * [Yandex Mystem](https://tech.yandex.ru/mystem/) - Морфологический анализ для русского языка
-* [pymorphy3](https://www.google.com/search?q=https://pymorphy3.readthedocs.io/en/latest/) - Морфологический анализатор для Python
+* [pymorphy3](https://pypi.org/project/pymorphy3/) - Морфологический анализатор для Python
 * [Snowball](http://snowball.tartarus.org/) - Фреймворк для стемминга
